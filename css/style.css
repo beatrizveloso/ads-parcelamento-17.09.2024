@@ -1,0 +1,22 @@
+.conteiner{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+.cores{
+    display: flex;
+}
+.azul{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+.vermelho{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}.ama{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
